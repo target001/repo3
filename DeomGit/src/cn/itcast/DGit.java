@@ -13,6 +13,7 @@ public class DGit {
         test();
         System.out.println(222222222);
         System.out.println("sssssssssss");
+        System.out.println("ddddddd");
     }
     public static void test(){
         int i = 0;
